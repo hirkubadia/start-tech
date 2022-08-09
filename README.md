@@ -1,1 +1,3 @@
-# start-tech
+Here in this repository I've posted the files and resources for the tasks given by Start-Tech Academy in the STEP-i Internship program.
+
+Please have a look and leave down your views...
